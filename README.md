@@ -1,4 +1,4 @@
-# Terrain-Generator
+# Terrain Generator
 
 ![terrain_gen](https://user-images.githubusercontent.com/92411137/210937015-384542f2-b90e-4120-ae35-4f7aaf5d902b.gif)
 
